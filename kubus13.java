@@ -11,6 +11,7 @@ public class kubus13 {
 
         luasPermukaan = LPKubus(s);
         System.out.println("Luas Permukaan kubus adalah " + luasPermukaan);
+        input13.close();
     }
 
     static int VolKubus (int sisi){
